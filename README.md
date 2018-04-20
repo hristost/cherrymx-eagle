@@ -1,5 +1,7 @@
+Fork of [c0z3n/cherrymx-eagle](https://github.com/c0z3n/cherrymx-eagle), includes footprints for plate-mount switches
 cherrymx-eagle
 ==============
+
 
 ![cherry MX eagle library](http://i.imgur.com/szJnP7x.png)
 
